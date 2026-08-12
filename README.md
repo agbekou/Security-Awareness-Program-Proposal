@@ -45,9 +45,10 @@ Day-to-day observation surfaces the following gaps. These reflect the absence of
 Topics are sequenced so the first several months directly support the WMS migration, then broaden into general security hygiene.
 
 
-Month	Topic	Why It Matters Now
-1	Kickoff: Why Security Matters Here	Frames the program and connects it to the WMS cloud migration
-2	Passwords & Password Managers	Foundation for every other control
+|Month	| Topic                  	| Why It Matters Now               |
+-----------------------------------------------------------------------
+1	      |Kickoff: Why Security Matters Here	|Frames the program and connects it to the WMS cloud migration
+2	      |Passwords & Password Managers	  | Foundation for every other control
 3	Multi-Factor Authentication (MFA)	Required for security hardness 
 4	Phishing Recognition	Highest-risk period during and after migration rollout
 5	Safe Link & Attachment Habits	Reinforces phishing training with practical habits
